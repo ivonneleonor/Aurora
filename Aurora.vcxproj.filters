@@ -18,5 +18,8 @@
     <ClCompile Include="Aurora.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="..\UnitTest1\UnitTest1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
